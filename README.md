@@ -1,5 +1,6 @@
 # IndexingSchemes
 indexes.cpp contains the code for the different indexing schemes
+
 graph.py is for plotting the graphs
 
 The different images represent the result of the experiments
